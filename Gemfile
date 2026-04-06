@@ -47,7 +47,7 @@ gem "simple_form", github: "heartcombo/simple_form"
 gem "sassc-rails"
 gem "devise"
 gem "devise-i18n" # gem de traduction
-gem "ruby_llm", "~> 1.2.0"
+gem "ruby_llm", "~> 1.14.1"
 gem "cloudinary"
 gem "activestorage-cloudinary-service"
 
